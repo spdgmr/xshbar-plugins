@@ -4,6 +4,7 @@
 --------------
 # xshbar plugins
 Built in plugins not enough for you? Well, here are a few more.
+Do not forget to enable them in ~/.config/xshbar/xshbar and put the plugin in ~/.config/xshbar/plugins.use
 
 #### mocp.plugin
 This plugin allows you to display your current track and many more things.
