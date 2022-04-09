@@ -28,3 +28,8 @@ This plugin does one thing and one thing only: display your current volume.
 ![image](https://user-images.githubusercontent.com/71722170/162468445-8aa204b8-57f8-44ee-918d-abf9c163f2f3.png)
 
 [[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/alsa.plugin)
+
+#### systeminfo.plugin
+This plugin displays general system information once its variables are defined in prn
+
+[[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/systeminfo.plugin)
