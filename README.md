@@ -40,3 +40,10 @@ This plugin displays weather information. Simple eh?
 ![image](https://user-images.githubusercontent.com/71722170/162569207-9a1f79b3-211b-4971-a174-71b6a0a79d63.png)
 
 [[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/weather.plugin)
+
+#### bitcoin.plugin
+This plugin displays the value of BitCoin (BTC)
+
+![image](https://user-images.githubusercontent.com/71722170/162574055-0151bfe6-cbd6-4ffe-ac4c-0773c209bccc.png)
+
+[[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/bitcoin.plugin)
