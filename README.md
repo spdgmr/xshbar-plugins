@@ -54,3 +54,8 @@ This plugin displays simple network stats
 [[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/netstat.plugin)
 
 NOTE: You need to change the device name.
+
+#### package.plugin
+This plugin does one thing and one thing only; displays the amount of packages on your system.
+
+[[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/package.plugin)
