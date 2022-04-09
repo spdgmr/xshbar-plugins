@@ -47,3 +47,10 @@ This plugin displays the value of BitCoin (BTC)
 ![image](https://user-images.githubusercontent.com/71722170/162574055-0151bfe6-cbd6-4ffe-ac4c-0773c209bccc.png)
 
 [[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/bitcoin.plugin)
+
+#### netstat.plugin
+This plugin displays simple network stats
+
+[[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/netstat.plugin)
+
+NOTE: You need to change the device name.
