@@ -33,3 +33,10 @@ This plugin does one thing and one thing only: display your current volume.
 This plugin displays general system information once its variables are defined in prn
 
 [[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/systeminfo.plugin)
+
+#### weather.plugin
+This plugin displays weather information. Simple eh?
+
+![image](https://user-images.githubusercontent.com/71722170/162569207-9a1f79b3-211b-4971-a174-71b6a0a79d63.png)
+
+[[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/weather.plugin)
