@@ -59,3 +59,10 @@ NOTE: You need to change the device name.
 This plugin does one thing and one thing only; displays the amount of packages on your system.
 
 [[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/package.plugin)
+
+#### dfmpeg.plugin
+This plugin displays "Recording" if you're recording with dfmpeg (ffmpeg + dmenu + dfmpeg)
+
+[[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/dfmpeg.plugin)
+
+NOTE: Requires a version of dfmpeg released 10/04/2022 or later.
