@@ -66,3 +66,10 @@ This plugin displays "Recording" if you're recording with dfmpeg (ffmpeg + dmenu
 [[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/dfmpeg.plugin)
 
 NOTE: Requires a version of dfmpeg released 10/04/2022 or later.
+
+#### temp.plugin
+This plugin displays your CPU temp. Simple.
+
+[[Download]](https://raw.githubusercontent.com/speediegamer/xshbar-plugins/main/temp.plugin)
+
+NOTE: Requires lm-sensors
